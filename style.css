@@ -102,14 +102,14 @@ input:checked+label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('/image/com-bn578-m.jpg');
+    background-image: url('/com-bn578-m.jpg');
 }
 .card[for="c2"] {
-    background-image: url('/image/com-bn578-m.jpg');
+    background-image: url('/com-bn578-m.jpg');
 }
 .card[for="c3"] {
-    background-image: url('/image/com-bn578-m.jpg');
+    background-image: url('/com-bn578-m.jpg');
 }
 .card[for="c4"] {
-    background-image: url('/image/com-bn578-m.jpg');
+    background-image: url('/com-bn578-m.jpg');
 }
