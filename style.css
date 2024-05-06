@@ -105,11 +105,11 @@ input:checked+label .description {
     background-image: url("image-1.jpg");
 }
 .card[for="c2"] {
-    background-image: url('/com-bn578-m.jpg');
+    background-image: url("image-1.jpg");
 }
 .card[for="c3"] {
-    background-image: url('/com-bn578-m.jpg');
+   background-image: url("image-1.jpg");
 }
 .card[for="c4"] {
-    background-image: url('/com-bn578-m.jpg');
+    background-image: url("image-1.jpg");
 }
