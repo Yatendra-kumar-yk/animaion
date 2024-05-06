@@ -102,7 +102,7 @@ input:checked+label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('image-1.jpg');
+    background-image: url("image-1.jpg");
 }
 .card[for="c2"] {
     background-image: url('/com-bn578-m.jpg');
